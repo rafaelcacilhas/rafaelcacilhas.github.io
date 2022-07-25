@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97d3f0c4.css",
+    "main.js": "/static/js/main.46ccae22.js",
+    "static/media/carbon.png": "/static/media/carbon.825e5a06f6c2ed9da650.png",
+    "static/media/appice-main.jpg": "/static/media/appice-main.d520ea1a43a8190ae6c4.jpg",
+    "static/media/tremvip.png": "/static/media/tremvip.120cf941755a8563e573.png",
+    "static/media/eu.png": "/static/media/eu.1c5f3e67219562a2e9f6.png",
+    "static/media/appice-feel.jpg": "/static/media/appice-feel.4f9486f78f206bc8d2da.jpg",
+    "static/media/appice-intro.jpg": "/static/media/appice-intro.812d6b758ba48905127f.jpg",
+    "index.html": "/index.html",
+    "main.97d3f0c4.css.map": "/static/css/main.97d3f0c4.css.map",
+    "main.46ccae22.js.map": "/static/js/main.46ccae22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d3f0c4.css",
+    "static/js/main.46ccae22.js"
+  ]
+}
